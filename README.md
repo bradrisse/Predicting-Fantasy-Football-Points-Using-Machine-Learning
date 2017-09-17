@@ -29,6 +29,8 @@ Prerequsites
 Install (may need sudo, eg. sudo pip ...)
 - ```pip install pandas```
 - ```pip install sklearn```
+- ```pip install numpy```
+- ```pip install pickle```
 
 Run
 - ```python main.py```
