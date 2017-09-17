@@ -20,6 +20,19 @@ Table 1: Common Lineup Format for FanDuel Site
 
 Once lineups have been set, fantasy teams gain points via actual NFL football game statistics.  For example, typically a running back will receive 1 point for every ten yards rushing in a game.  Different leagues have different point settings.  For the analysis conducted in this report we assume standard PPR league scoring.  In a PPR league a player is awarded 0.5 points for every reception.
 
+How to Install/Run
+----
+
+Prerequsites 
+- python (Ensure python 2 is installed, NOT python3)
+
+Install (may need sudo, eg. sudo pip ...)
+- ```pip install pandas```
+- ```pip install sklearn```
+
+Run
+- ```python main.py```
+
 Data
 ----
 
