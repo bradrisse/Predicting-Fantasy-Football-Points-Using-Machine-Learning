@@ -33,6 +33,18 @@ Install (may need sudo, eg. sudo pip ...)
 Run
 - ```python main.py```
 
+Sample Output
+
+```
+ python main.py 
+ Learning for Position PK ...
+ Learning for Position QB ...
+ Learning for Position RB ...
+ Learning for Position TE ...
+ Learning for Position WR ...
+ Program finished normally
+```
+
 Data
 ----
 
